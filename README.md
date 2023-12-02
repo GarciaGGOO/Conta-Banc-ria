@@ -1,9 +1,5 @@
 Conta Bancária
-<p align="center"> •
-<a href="#sobre">Sobre</a> •
-<a href="#tecnologias">Tecnologias</a> •
-<a href="#pré-requisitos">Pré-requisitos</a> •
-<a href="#autor">Autor</a>
+
 </p>
 Sobre
 Nesta atividade, utilizei a ferramenta "Cucumber" para apresentar cenários de clientes, explicando suas preferências para o software.
