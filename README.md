@@ -14,6 +14,7 @@ Tecnologias
 Pré-requisitos
 <p>• <a href="https://www.jetbrains.com/pt-br/idea/">IntelliJ IDEA</a></p>
 Primeira:
+
 ![image](https://github.com/GarciaGGOO/Conta-Banc-ria/assets/111614180/cc5d813b-02d9-42e5-88d9-40894fd5a21d)
 
 
